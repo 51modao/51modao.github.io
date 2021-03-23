@@ -13,3 +13,6 @@ function addFavorite() {
         }
     }
 }
+
+
+var _paq=window._paq=window._paq||[];_paq.push(["trackPageView"]),_paq.push(["enableLinkTracking"]),function(){var a="//51modao.xyz/matomo/";_paq.push(["setTrackerUrl",a+"matomo.php"]),_paq.push(["setSiteId","2"]);var e=(t=document).createElement("script"),t=t.getElementsByTagName("script")[0];e.type="text/javascript",e.async=!0,e.src=a+"matomo.js",t.parentNode.insertBefore(e,t)}();
